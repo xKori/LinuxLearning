@@ -16,7 +16,7 @@ Learning resource: https://labex.io/linuxjourney
   <li>Disk partitioning with fdisk and parted</li>
   <li>User/Group Permissions</li>
   <li>User Management</li>
-  <li>Processes</li>
+  <li>Processes / Process Management</li>
   <li>Basic VIM</li>
 </ul>
 
