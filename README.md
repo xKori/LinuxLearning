@@ -20,9 +20,9 @@ Learning resource: https://labex.io/linuxjourney
   <li>Basic VIM</li>
 </ul>
 
-<h3>Operations</h3>
+<h3>Operating System</h3>
 <ul>
-  <li>Devices</li>
+  <li>Device Management</li>
   <li>Filesystems</li>
   <li>Boot process</li>
   <li>Kernel</li>
