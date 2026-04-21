@@ -17,6 +17,7 @@ Learning resource: https://labex.io/linuxjourney
   <li>User/Group/Directory creation & Permissions</li>
   <li>Processes / Process Management</li>
   <li>Basic VIM</li>
+  <li>Cron Jobs</li>
 </ul>
 
 <h3>Operating System</h3>
