@@ -27,4 +27,5 @@ Learning resource: https://labex.io/linuxjourney
   <li>Kernel</li>
   <li>Init</li>
   <li>CPU Monitoring</li>
+  <li>I/O Monitoring</li>
 </ul>
