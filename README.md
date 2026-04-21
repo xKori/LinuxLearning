@@ -27,4 +27,5 @@ Learning resource: https://labex.io/linuxjourney
   <li>Boot process</li>
   <li>Kernel</li>
   <li>Init</li>
+  <li>CPU Monitoring</li>
 </ul>
