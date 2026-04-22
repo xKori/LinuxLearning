@@ -14,7 +14,7 @@ Learning resource: https://labex.io/linuxjourney
   <li>Archiving and compressing with tar and gzip</li>
   <li>Compiling from source code</li>
   <li>Disk partitioning with fdisk and parted</li>
-  <li>User/Group/Directory creation & Permissions</li>
+  <li>User/Group/Directory Configuration & Permissions</li>
   <li>Processes / Process Management</li>
   <li>Basic VIM</li>
   <li>Cron Jobs</li>
