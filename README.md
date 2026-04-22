@@ -38,3 +38,10 @@ Learning resource: https://labex.io/linuxjourney
   <li>Kernel</li>
   <li>Init</li>
 </ul>
+
+<h3>File Sharing</h3>
+<ul>
+  <li>File and directory copying between local/remote hosts with scp</li>
+  <li>Directory syncing with rsync</li>
+  <li>Simple HTTP Server</li>
+</ul>
