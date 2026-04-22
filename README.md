@@ -27,6 +27,7 @@ Learning resource: https://labex.io/linuxjourney
   <li>System Logging</li>
   <li>General Logging</li>
   <li>Authentication Logging</li>
+  <li>Managing log files with logrotate</li>
 </ul>
 
 <h3>Operating System</h3>
