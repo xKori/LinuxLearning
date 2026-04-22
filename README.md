@@ -11,7 +11,7 @@ Learning resource: https://labex.io/linuxjourney
 <h3>Administrative</h3>
 <ul>
   <li>Linux Packages</li>
-  <li>Archiving and compressing with tar and gzip</li>
+  <li>Creating and restoring backups with tar and gzip</li>
   <li>Compiling from source code</li>
   <li>Disk partitioning with fdisk and parted</li>
   <li>User/Group/Directory Configuration & Permissions</li>
