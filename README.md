@@ -20,6 +20,15 @@ Learning resource: https://labex.io/linuxjourney
   <li>Cron Jobs</li>
 </ul>
 
+<h3>Logging / Monitoring</h3>
+<ul>
+  <li>CPU Monitoring</li>
+  <li>I/O Monitoring</li>
+  <li>System Logging</li>
+  <li>General Logging</li>
+  <li>Authentication Logging</li>
+</ul>
+
 <h3>Operating System</h3>
 <ul>
   <li>Device Management</li>
@@ -27,6 +36,4 @@ Learning resource: https://labex.io/linuxjourney
   <li>Boot process</li>
   <li>Kernel</li>
   <li>Init</li>
-  <li>CPU Monitoring</li>
-  <li>I/O Monitoring</li>
 </ul>
