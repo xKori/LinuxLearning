@@ -44,4 +44,6 @@ Learning resource: https://labex.io/linuxjourney
   <li>File and directory copying between local/remote hosts with scp</li>
   <li>Directory syncing with rsync</li>
   <li>Simple HTTP Server</li>
+  <li>File sharing across hybrid environments with Samba (SMB/CIFS)</li>
+  
 </ul>
