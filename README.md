@@ -18,6 +18,7 @@ Learning resource: https://labex.io/linuxjourney
   <li>Processes / Process Management</li>
   <li>Basic VIM</li>
   <li>Cron Jobs</li>
+  <li>Persistent mounting with FStab</li>
 </ul>
 
 <h3>Logging / Monitoring</h3>
