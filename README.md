@@ -46,5 +46,11 @@ Learning resource: https://labex.io/linuxjourney
   <li>Directory syncing with rsync</li>
   <li>Simple HTTP Server</li>
   <li>File sharing across hybrid environments with Samba (SMB/CIFS)</li>
-  
+</ul>
+
+<h3>Networking</h3>
+<ul>
+  <li>Managing IP Adresses</li>
+  <li>DHCP addressing with dhclient</li>
+  <li>Using ping, arp, and traceroute</li>
 </ul>
