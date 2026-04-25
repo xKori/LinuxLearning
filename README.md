@@ -1,4 +1,4 @@
-# Linux Learning Log
+# 📝 Linux Learning Log
 Learning resource: https://labex.io/linuxjourney
 
 
