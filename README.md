@@ -53,4 +53,7 @@ Learning resource: https://labex.io/linuxjourney
   <li>Managing IP Adresses</li>
   <li>DHCP addressing with dhclient</li>
   <li>Using ping, arp, and traceroute</li>
+  <li>Trouvleshooting with ICMP, ping, traceroute, and netstat</li>
+  <li>Capturing packet data with tcpdump</li>
+  <li>DNS troubleshooting tools dig and nslookup</li>
 </ul>
